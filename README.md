@@ -1,8 +1,8 @@
-## 👋 About Me
+## About Me
 
 Hi, I'm **Matthew**, a Computer Science student.
 
-## 🧠 Skills
+## Skills
 
 ### Languages
 
